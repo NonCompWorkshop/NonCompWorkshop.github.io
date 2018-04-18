@@ -2101,4 +2101,13 @@ span.sub-text {
 }
 /*--//responsive--*/
 
+.weblink:hover
+{
+  color: #fff;
+            }
+.weblink:active
+{
+  color: #777;
+}
+
 
